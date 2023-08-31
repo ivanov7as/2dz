@@ -6,7 +6,7 @@ multiplicity = 50
 low = 30
 high = 600
 while True:
-    command = input("введите действие: ")
+    command = input("Введите действие: ")
     if command == "+":
         count += 1
         money = int(input("Введите сумму: "))
