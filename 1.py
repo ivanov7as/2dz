@@ -1,5 +1,5 @@
-first = input(('Введите число формата a/b: '))
-second = input(('Введите число формата a/b: '))
+first = input(('Введите число вида a/b: '))
+second = input(('Введите число вида a/b: '))
 
 
 def fractionsum(first, second):
